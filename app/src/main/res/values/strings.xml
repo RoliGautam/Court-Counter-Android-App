@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Court Counter</string>
+
+    <string name="first_team">First Team</string>
+    <string name="second_team">Second Team</string>
+    <string name="welcome_to_the_game">Welcome to the court counter</string>
+</resources>
